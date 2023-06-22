@@ -27,3 +27,5 @@ replay_pid*
 # Eclipse
 .settings/
 
+#db 
+db
