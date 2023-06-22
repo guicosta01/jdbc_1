@@ -28,4 +28,4 @@ replay_pid*
 .settings/
 
 #db 
-db
+db.properties
